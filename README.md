@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Hoimar
 - 🔭 I’m currently working on my Bachelor's degree
 - 🤓 I'm a geek interested in computer science, software engineering, tinkering, free open source software, game development and simulations.
-- 😄 Pronouns: he/him
+- Pronouns: he/him
 
 <!--
 - 🔭 I’m currently working on ...
